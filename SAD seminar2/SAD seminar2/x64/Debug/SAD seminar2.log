@@ -1,0 +1,26 @@
+﻿  SAD seminar2.cpp
+  Collection.cpp
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(79,6): error C2365: 'Collection::occurencies': redefinition; previous definition was 'data member'
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(12,7): message : see declaration of 'Collection::occurencies'
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(80,3): error C2059: syntax error: 'return'
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(80,35): error C2238: unexpected token(s) preceding ';'
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(84,2): error C2628: 'Collection' followed by 'void' is illegal (did you forget a ';'?)
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(85,31): error C2065: 'capacity': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(85,44): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(86,33): error C2065: 'capacity': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(86,46): error C3078: array size must be specified in new expressions without an initializer
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(87,23): error C2065: 'distinctelements': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(88,18): error C2065: 'elements': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(89,24): error C2065: 'occurencies': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(91,3): error C2065: 'capacity': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(93,12): error C2065: 'elements': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(93,20): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(94,12): error C2065: 'occurencies': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(94,23): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(96,3): error C2065: 'elements': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(97,3): error C2065: 'occurencies': undeclared identifier
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(103,13): error C2588: '::~Collection': illegal global destructor
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(103,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(105,1): error C2059: syntax error: '}'
+C:\Users\ipetc\Desktop\SAD seminar2\SAD seminar2\Collection.cpp(105,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
